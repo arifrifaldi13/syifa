@@ -83,3 +83,14 @@ body{
         font-size: .5rem;
     }
 }
+
+.button button {
+    box-shadow: #fff 0px 0px 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 98, 124);
+}
+
+.button button a {
+    color: white;
+    font-weight: 500;
+}
